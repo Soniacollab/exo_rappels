@@ -1,4 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
+    console.log("script loaded");
+
     const links = document.querySelectorAll("nav ul li a");
 
     links.forEach(link => {
